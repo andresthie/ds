@@ -37,13 +37,31 @@
             ]
         },
         {
+            "tag": "keras",
+            "patterns": [
+                "qué es keras",
+                "de que se trata keras",
+                "puedes explicarme de keras";
+                "que es keras",
+                "para que sirve keras"
+            ],
+            "responses": [
+                "Keras es una biblioteca de Redes Neuronales de Código Abierto escrita en Python. Es capaz de ejecutarse sobre TensorFlow, Microsoft Cognitive Toolkit o Theano. Está especialmente diseñada para posibilitar la experimentación en más o menos poco tiempo con redes de Aprendizaje Profundo. Sus fuertes se centran en ser amigable para el usuario, modular y extensible. Inicialmente fue desarrollada como parte de los esfuerzos de investigación del proyecto ONEIROS (Open-ended Neuro-Electronic Intelligent Robot Operating System) . Su autor principal y mantenedor ha sido el ingeniero de Google François Chollet. En 2017, el equipo de TensorFlow de Google decidió ofrecer soporte a Keras en la biblioteca de core de TensorFlow3​ Chollet explica que Keras ha sido concebido para actuar como una interfaz en lugar de ser una framework de machine learning standalone. Ofrece un conjunto de abstracciones más intuitivas y de alto nivel haciendo más sencillo el desarrollo de modelos de aprendizaje profundo independientemente del backend computacional utilizado."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
             "tag": "adiós",
             "patterns": [
                 "Adiós",
                 "Te veo luego",
-                "Adiós",
+                "Adios",
                 "Encantado de charlar contigo, adiós",
-                "Hasta la próxima"
+                "Hasta la próxima",
+                "Chao",
+                "Hasta luego"               
             ],
             "responses": [             
                 "Adiós, que tengas un buen día"
