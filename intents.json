@@ -1,0 +1,63 @@
+{
+    "intents": [
+        {
+            "tag": "saludo",
+            "patterns": [
+                "Hola",
+                "Cómo estás",
+                "¿Hay alguien ahí?",
+                "Oye",
+                "Hola",
+                "Hola",
+                "Buenos días"
+            ],
+            "responses": [
+                "Hola, ¿cómo puedo ayudar?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "adiós",
+            "patterns": [
+                "Adiós",
+                "Te veo luego",
+                "Adiós",
+                "Encantado de charlar contigo, adiós",
+                "Hasta la próxima"
+            ],
+            "responses": [             
+                "Adiós, que tengas un buen día"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "gracias",
+            "patterns": [
+                "Gracias",
+                "Eso es útil",
+                "Genial gracias",
+                "Gracias por ayudarme"
+            ],
+            "responses": [
+                "Encantado de ayudar!" 
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "sinrespuesta",
+            "patterns": [],
+            "responses": [
+                "Lo siento, no puedo entenderte"
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}
