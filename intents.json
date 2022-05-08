@@ -25,7 +25,9 @@
                "Qué temas conoces",
                "Qué sabes",
                "en qué te manejas",
-               "En qué temas me puedes ayudar"
+               "En qué temas me puedes ayudar",
+               "tema",
+               "campo" 
             ],
             "responses": [
                 "Mi campo de especialidad es en Keras una biblioteca de Redes Neuronales de Código Abierto escrita en Python"
